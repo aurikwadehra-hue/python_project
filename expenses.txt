@@ -1,0 +1,7 @@
+Daily Expense Report
+---------------------
+loo: ₹7.00
+32: ₹0.00
+
+Total: ₹7.00
+Average: ₹3.50
